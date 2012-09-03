@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "osx": {
+      "cpu": {
+        "label": "",
+        "options": "",
+        "interval": "30000"
+      },
+      "load_average": {
+        "label":"",
+        "options": "",
+        "interval": "60000"
+      }
+    }
+  }
+}

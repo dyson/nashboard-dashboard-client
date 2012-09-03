@@ -1,0 +1,20 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "Dyson Simmons",
+    "email": "<dyson@burnet.edu.au>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyson/nashboard-dashboard-client.git"
+  },
+
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "nashboard-client": "0.0.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "checks_path": "/Users/dyson/Sites/node/nashboard/nashboard-checks",
+  "client": {
+    "name": "localhost",
+    "token": "5884c174b0f273a5c367953d9a6faf4f"
+  },
+  "server": {
+    "host": "localhost",
+    "port": "8001"
+  }
+}
