@@ -1,6 +1,6 @@
 {
   "name": "application-name",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "author": {
     "name": "Dyson Simmons",
@@ -15,6 +15,6 @@
     "start": "node app"
   },
   "dependencies": {
-    "nashboard-client": "0.0.1"
+    "nashboard-client": "0.0.2"
   }
 }
